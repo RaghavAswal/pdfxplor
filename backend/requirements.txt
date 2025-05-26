@@ -1,0 +1,8 @@
+flask
+flask-cors
+python-docx
+pymupdf
+pytesseract
+pillow
+pdf2image
+openai  # Optional fallback to OpenAI
